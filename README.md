@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stephane-finot
+- 👀 I’m interested in video editing and computer graphics.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on video projects!
